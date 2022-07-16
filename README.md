@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aryan369
+- 👋 Hi, I’m Aryan....Hope you're doing great ^_^
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ... gameDev, front-end webDev projects
