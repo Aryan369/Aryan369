@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ... gameDev, front-end webDev projects
-- 📫 How to reach me ... on Instagram, IG- @aryxns__
+- 📫 How to reach me ... on Instagram, IG- @thefree.soull
 
 <!---
 Aryan369/Aryan369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
